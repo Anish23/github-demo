@@ -3,6 +3,7 @@ class Example{
   
   for(i==0,i<10,i++){
   print("HelloWorld"+i)
+  print("Version2")
   }
 }
 }
